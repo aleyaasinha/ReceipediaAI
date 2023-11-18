@@ -1,0 +1,13 @@
+string
+ast
+pandas
+collections
+stopwordsiso
+scikit-learn
+joblib
+numpy
+gensim
+requests
+beautifulsoup4
+config
+unidecode
