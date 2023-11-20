@@ -15,7 +15,7 @@ def main():
     st.markdown("# *Recipedia :cooking:*")
 
     st.markdown(
-        "An ML-powered app by Group-29 <a href='https://github.com/aleyaasinha' > <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width='20' height='20' > </a> ",
+        "An ML-powered app by Group-29 <a href='https://github.com' > <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width='20' height='20' > </a> ",
         unsafe_allow_html=True,
     )
     st.markdown(
